@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Smartphone price",
+    "description": "This extension is going to verify the price of the Redmi Note 13 Pro 5G smartphone.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "./index.html",
+      "default_icon": "./public/img/smartphone.png"
+    }
+  }
